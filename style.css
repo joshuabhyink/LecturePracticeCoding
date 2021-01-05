@@ -1,0 +1,15 @@
+
+
+
+nav{
+    display: inline-block;
+    background-color: goldenrod;
+}
+
+#main-heading{
+display: inline-block;
+}
+
+.nav-link{
+    color: blue;
+}
